@@ -1,0 +1,4 @@
+*.css      text/css gzip
+*.js       application/javascript gzip
+*.html     text/html gzip
+*.json     application/json gzip
